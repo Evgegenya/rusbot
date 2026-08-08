@@ -5,7 +5,7 @@ import sqlite3
 import os
 
 # ==================== НАСТРОЙКИ ====================
-API_TOKEN = '8779200149:AAHV7RlnXE2TbbEXOMciHRI8uFw6ZGon4c4'  # Вставьте токен от @BotFather
+API_TOKEN = '........'  # Токен от @BotFather
 bot = telebot.TeleBot(API_TOKEN)
 FILES_DIR = '!!!!!!!!!!'  # Написать путь к файлам!
 #print(FILES_DIR)
